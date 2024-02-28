@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685445651 source:c:\users\muham\onedrive\documents\code blocks c\yapisalprogramlamabaharprojesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
